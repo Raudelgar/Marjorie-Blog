@@ -7,11 +7,11 @@
 }
 
 .header {
-	text-align: center;
+  text-align: center;
 }
 
 .jumbotron {
-	background-image: url(file:///Volumes/TOSHIBA%20EXT/Raudel/Programming/Marjorie%C2%B4s%20blog/img/image%202.png);
+	background-image: url(./img/image%202.png);
 	font-family: "Alegreya+Sans", sans-serif;
 }
 
